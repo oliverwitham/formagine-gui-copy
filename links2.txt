@@ -1,0 +1,85 @@
+show stl (vtk):
+https://vtk.org/Wiki/VTK/Examples/Python/STLReader
+
+ray casting:
+https://pyscience.wordpress.com/2014/09/21/ray-casting-with-python-and-vtk-intersecting-linesrays-with-surface-meshes/ (and also a fundamental vtk article)
+https://stackoverflow.com/questions/57058089/how-to-use-vtkobbtree-and-intersectwithline-to-find-the-intersection-of-a-line-a
+
+adding axes (vtk):
+https://kitware.github.io/vtk-examples/site/Python/GeometricObjects/Axes/ (and tbh a lot more than just axes for this link)
+https://vtk.org/doc/nightly/html/classvtkAxesActor.html#details
+
+using global vars b/w files (python):
+https://stackoverflow.com/questions/13034496/using-global-variables-between-files
+https://teclado.com/30-days-of-python/python-30-day-21-multiple-files
+
+using VTK (general) (vtk):
+http://web.cse.ohio-state.edu/~shen.94/5544/Slides/VTK1.pdf
+
+drawing base planes (ie polygons) (vtk):
+https://kitware.github.io/vtk-examples/site/Python/GeometricObjects/Polygon/
+
+drawing point (vtk):
+https://kitware.github.io/vtk-examples/site/Python/GeometricObjects/Point/
+
+initialize array of size n (python):
+http://people.bu.edu/andasari/courses/basicpython/basicpython.html
+
+InsertNextCell() (vtk):
+https://vtk.org/doc/nightly/html/classvtkCellArray.html#ac11566088137c428e499e89a06c9b37d
+
+General VTK documentation of functions link (classes->class members->all->starting letter of function):
+https://vtk.org/doc/nightly/html/functions_i.html#index_i
+
+Converting tuple to np array to solve indexing problem (numpy):
+https://stackoverflow.com/questions/33829535/how-to-slice-a-list-of-tuples-in-python
+
+Set title of window (Qt):
+https://stackoverflow.com/questions/10598269/how-to-change-the-title-of-the-window-in-qts
+
+Embed VTK window in PqQt using QT5 (Qt / VTK):
+https://gist.github.com/paskino/7b7ed6e4541d682bd5ce5d521505dd8f
+
+Set window size (Qt):
+https://stackoverflow.com/questions/32017853/how-to-set-initial-size-of-widget-in-pyqt-larger-than-2-3rds-of-screen
+
+Set actor position (vtk):
+https://vtk.org/doc/release/5.2/html/a00046.html (probably didn't use this link, but it shows the function, so that's nice)
+
+Update visualization when actor position changed (vtk):
+https://stackoverflow.com/questions/54337397/rendering-an-actor-created-within-a-vtkcommand-callback
+
+Make button call a function (vtk):
+https://wiki.qt.io/Qt_for_Python_Tutorial_ClickableButton
+
+Passing value into slider function (qt):
+https://eli.thegreenplace.net/2011/04/25/passing-extra-arguments-to-pyqt-slot
+
+Get slider value (qt):
+https://stackoverflow.com/questions/15765444/how-to-get-values-from-the-slider-in-pyside
+
+Trigger event on slider release (qt):
+https://doc.qt.io/qt-5/qslider.html#mouseReleaseEvent
+
+Rectangle setup (qt):
+https://doc.qt.io/qt-5/qrect.html
+
+Make it so that transformations can be reflected in the ray cast:
+https://stackoverflow.com/questions/35956983/updating-vtkpolydata-from-vtkactor
+https://kitware.github.io/vtk-examples/site/Python/Filtering/TransformPolyData/
+http://vtk.1045678.n5.nabble.com/Question-Save-two-actors-in-vtk-or-stl-file-td5725333.html
+
+Qt designer stuff (Qt):
+https://realpython.com/qt-designer-python/#conclusion
+
+Setting size of vtk render window in Qt (Qt):
+https://stackoverflow.com/questions/19815061/pyside-set-width-of-qvboxlayout
+
+Making render window update immediately after translating model (vtk):
+https://stackoverflow.com/questions/48573811/vtk-view-doesnt-update-until-after-user-interaction
+
+Getting value from spinBox (Qt):
+https://doc.qt.io/qt-5/qspinbox.html
+
+Set up rotations (vtk):
+https://vtk.org/doc/nightly/html/classvtkTransform.html

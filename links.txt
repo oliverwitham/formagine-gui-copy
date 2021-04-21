@@ -1,0 +1,117 @@
+buttons (matplotlib):
+https://matplotlib.org/3.1.1/gallery/widgets/buttons.html
+https://matplotlib.org/3.1.1/api/widgets_api.html#matplotlib.widgets.Button
+
+global variables (python):
+https://stackoverflow.com/questions/10588317/python-function-global-variables
+
+updating plot (matplotlib):
+https://stackoverflow.com/questions/4098131/how-to-update-a-plot-in-matplotlib
+
+selecting file (tkinter):
+https://stackoverflow.com/questions/3579568/choosing-a-file-in-python-with-simple-dialog
+
+pdb (python debugger):
+https://docs.python.org/3/library/pdb.html
+
+mplot3d documentation (mplot3d):
+https://matplotlib.org/mpl_toolkits/mplot3d/api.html
+https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html?highlight=3d
+https://matplotlib.org/stable/tutorials/toolkits/mplot3d.html
+
+set aspect ratio - see 27 May 2020 (mplot3d):
+https://github.com/matplotlib/matplotlib/issues/17172
+
+axes (matplotlib):
+https://matplotlib.org/3.1.1/api/axes_api.html#matplotlib.axes.Axes
+
+set window title (pyplot):
+https://stackoverflow.com/questions/5812960/change-figure-window-title-in-pylab
+
+hiding matplotlib toolbar - the thing on the top with the buttons (matplotlib):
+https://www.xspdf.com/resolution/51676734.html
+https://stackoverflow.com/questions/16432324/remove-matplotlib-toolbar-from-the-graph (first link should be sufficient though)
+
+set figure size (matplotlib / pyplot):
+https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
+
+hide slider value (matplotlib):
+https://stackoverflow.com/questions/15477059/how-to-remove-hide-matplotlib-slider-values
+
+hide slider vertical middle / initial value bar (matplotlib):
+https://stackoverflow.com/questions/25791996/how-to-format-slider/25935010
+
+use slider (matplotlib) (unsure if used):
+https://matplotlib.org/3.3.3/gallery/widgets/slider_demo.html
+
+widgets documentation (matplotlib.widgets):
+https://matplotlib.org/stable/api/widgets_api.html
+
+set plane opacity (pyplot):
+https://stackoverflow.com/questions/4581504/how-to-set-opacity-of-background-colour-of-graph-with-matplotlib
+
+draw plane (numpy):
+https://stackoverflow.com/questions/29394305/how-does-one-draw-the-x-0-plane-using-matplotlib-mpl3d
+
+access part of tuple (python):
+https://www.programiz.com/python-programming/tuple
+
+draw point (mplot3d):
+https://matplotlib.org/3.1.1/gallery/mplot3d/scatter3d.html
+
+update annotation text (pyplot / matplotlib):
+https://stackoverflow.com/questions/47862215/update-a-specific-annotation-in-matplotlib
+
+numpy ndarray / array slicing and usage (python):
+https://www.w3schools.com/python/trypython.asp?filename=demo_numpy_array_slicing_2d2
+https://www.w3schools.com/python/numpy_array_slicing.asp
+https://numpy.org/doc/stable/user/basics.indexing.html#basics-indexing
+
+get time as int (time):
+https://stackoverflow.com/questions/4548684/how-to-get-the-seconds-since-epoch-from-the-time-date-output-of-gmtime
+
+python writing to file (python):
+https://www.w3schools.com/python/python_file_write.asp
+writing json to file (json):
+https://stackoverflow.com/questions/12309269/how-do-i-write-json-data-to-a-file
+https://www.w3schools.com/python/python_json.asp
+
+equations of a plane:
+https://kitchingroup.cheme.cmu.edu/blog/2015/01/18/Equation-of-a-plane-through-three-points/
+
+finding if point is in a triangle:
+https://stackoverflow.com/questions/2049582/how-to-determine-if-a-point-is-in-a-2d-triangle
+
+initializing array / list (python):
+https://stackoverflow.com/questions/521674/initializing-a-list-to-a-known-number-of-elements-in-python
+https://www.geeksforgeeks.org/python-which-is-faster-to-initialize-lists/
+
+text box (matplotlib):
+https://matplotlib.org/stable/api/widgets_api.html#matplotlib.widgets.TextBox
+https://matplotlib.org/3.1.0/gallery/widgets/textbox.html
+
+online JSON viewer (json):
+http://jsonviewer.stack.hu/
+
+stl library (stl):
+https://github.com/WoLpH/numpy-stl
+https://numpy-stl.readthedocs.io/en/latest/usage.html#quickstart
+https://pypi.org/project/numpy-stl/
+https://w.wol.ph/2015/07/10/rendering-stl-files-matplotlib-numpy-stl/
+https://readthedocs.org/projects/numpy-stl/downloads/pdf/latest/
+https://pythonhosted.org/numpy-stl/stl.html#module-stl.stl
+
+plot a point (pyplot):
+https://stackoverflow.com/questions/14827650/pyplot-scatter-plot-marker-size
+
+ternary operators (python):
+https://book.pythontips.com/en/latest/ternary_operators.html
+
+max (and min) of numpy "array" (numpy):
+https://numpy.org/doc/stable/reference/generated/numpy.amax.html
+
+get size of numpy array (numpy):
+https://note.nkmk.me/en/python-numpy-ndarray-ndim-shape-size/
+
+set polygon edgecolor (mplot3d) (unsure if this is the proper link, but it has the key link in the question):
+https://stackoverflow.com/questions/52376329/how-to-set-the-origin-for-the-mesh-with-mplot3d
