@@ -3,7 +3,6 @@ import vtk
 import global_variables as gvars
 import data_support_code as data_sc
 import graphics_support_code as graphics_sc
-import main_ui as m_ui
 import time
 
 def get_export_data():
